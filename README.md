@@ -1,4 +1,4 @@
-# beginning
+<!doctype html>
 <html>
 <head>
 <html lang="ko">
