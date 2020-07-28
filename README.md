@@ -1,8 +1,6 @@
 # beginning
-<!doctype html>
 <html>
 <head>
-<title>Myriarm</title>
 <html lang="ko">
 </head>
 <body>
